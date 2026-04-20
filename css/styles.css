@@ -20,7 +20,7 @@
 .hero {
   position: relative;
   height: 50vh; /* ajusta altura del hero */
-  background-image: url('../Img/foto\ 8.jpg'); /* tu imagen de hero */
+  background-image: url('https://tiendacloud01mil.blob.core.windows.net/imagenesmajolambarri/foto 8.jpg'); /* tu imagen de hero */
   background-size: cover; /* hace que la imagen cubra todo el contenedor */
   background-position: center center; /* centra la imagen */
   background-repeat: no-repeat; /* evita repetición */
