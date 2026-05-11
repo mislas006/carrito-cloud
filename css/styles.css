@@ -54,3 +54,23 @@ html {
 #productos {
   scroll-margin-top: 70px;
 }
+
+.boton-formulario {
+  background: linear-gradient(135deg, #d4af37, #f7e7a9);
+  border: none;
+  color: #4b2e2e;
+  font-weight: bold;
+  padding: 12px 28px;
+  border-radius: 30px;
+  box-shadow: 0 4px 10px rgba(0,0,0,0.2);
+  transition: all 0.3s ease;
+  text-decoration: none;
+  display: inline-block;
+}
+
+.boton-formulario:hover {
+  background: linear-gradient(135deg, #f7e7a9, #d4af37);
+  transform: scale(1.05);
+  color: #4b2e2e;
+  box-shadow: 0 6px 15px rgba(0,0,0,0.3);
+}
